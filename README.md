@@ -33,6 +33,28 @@
     <a href="#working-principles--工作原则">Working principles / 工作原则</a> ·
     <a href="#current-focus--当前方向">Current focus / 当前方向</a>
   </p>
+  <p>
+    <img src="https://img.shields.io/badge/Rust-0B0F1A?style=flat-square&logo=rust&logoColor=E57324" />
+    <img src="https://img.shields.io/badge/TypeScript-0B0F1A?style=flat-square&logo=typescript&logoColor=3178C6" />
+    <img src="https://img.shields.io/badge/Go-0B0F1A?style=flat-square&logo=go&logoColor=00ADD8" />
+    <img src="https://img.shields.io/badge/Java-0B0F1A?style=flat-square&logo=openjdk&logoColor=F89820" />
+    <img src="https://img.shields.io/badge/Python-0B0F1A?style=flat-square&logo=python&logoColor=3776AB" />
+    <img src="https://img.shields.io/badge/WebGPU-0B0F1A?style=flat-square&logo=webgpu&logoColor=F472B6" />
+    <img src="https://img.shields.io/badge/eBPF-0B0F1A?style=flat-square&logo=linux&logoColor=F87171" />
+    <img src="https://img.shields.io/badge/WASM-0B0F1A?style=flat-square&logo=webassembly&logoColor=654FF0" />
+    <img src="https://img.shields.io/badge/Zero_Knowledge-0B0F1A?style=flat-square&logo=ethereum&logoColor=34D399" />
+    <img src="https://img.shields.io/badge/MCP-0B0F1A?style=flat-square&logoColor=22D3EE" />
+  </p>
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opanai404&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css&bg_color=0B0F1A&title_color=F8FAFC&text_color=8B93A7" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=opanai404&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=issues,prs&bg_color=0B0F1A&title_color=F8FAFC&text_color=8B93A7&icon_color=F472B6" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=opanai404&theme=onedark&no-frame=true&column=7&margin-w=8" />
 </div>
 
 ## Frontier systems · 前沿系统
@@ -131,6 +153,8 @@
         基于 WebGPU 的实时路径追踪：多重重要性采样、时域降噪与 PBR 材质，纯浏览器运行。
       </p>
       <p>
+        <a href="https://opanai404.github.io/lumina-wgpu/"><strong>Live demo / 在线体验</strong></a>
+        ·
         <a href="https://github.com/opanai404/lumina-wgpu"><strong>Explore / 查看</strong></a>
       </p>
     </td>
