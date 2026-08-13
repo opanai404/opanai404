@@ -27,12 +27,115 @@
   </p>
 
   <p>
+    <a href="#frontier-systems--前沿系统">Frontier systems / 前沿系统</a> ·
     <a href="#selected-work--精选项目">Selected work / 精选项目</a> ·
     <a href="#capabilities--专业能力">Capabilities / 专业能力</a> ·
     <a href="#working-principles--工作原则">Working principles / 工作原则</a> ·
     <a href="#current-focus--当前方向">Current focus / 当前方向</a>
   </p>
 </div>
+
+## Frontier systems · 前沿系统
+
+<p>
+  Systems engineering across the modern frontier — agentic orchestration, vector search,
+  WebAssembly, zero-knowledge proofs, eBPF observability, and WebGPU graphics.
+  <br />
+  面向前沿的系统工程：智能体编排、向量搜索、WebAssembly、零知识证明、eBPF 可观测性与 WebGPU 图形。
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/opanai404/aurora-agent">
+        <img src="./assets/card-aurora-agent.svg" alt="Aurora — MCP-native multi-agent orchestration" width="100%" />
+      </a>
+      <p>
+        <strong>Aurora</strong><br />
+        MCP-native multi-agent orchestration for autonomous systems — graph DAG execution, streaming, and OTel-observable LLM fleets.
+        <br />
+        基于 MCP 的多智能体自主编排框架：DAG 执行、流式事件与可观测的智能体集群。
+      </p>
+      <p>
+        <a href="https://github.com/opanai404/aurora-agent"><strong>Explore / 查看</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/opanai404/vectrix">
+        <img src="./assets/card-vectrix.svg" alt="Vectrix — SIMD-accelerated vector search engine" width="100%" />
+      </a>
+      <p>
+        <strong>Vectrix</strong><br />
+        SIMD-accelerated embedded vector search engine in Rust — hybrid HNSW + IVF-PQ indexes, mmap storage, and WASM export.
+        <br />
+        基于 Rust 的 SIMD 加速嵌入式向量搜索引擎：混合 HNSW + IVF-PQ 索引与 WASM 导出。
+      </p>
+      <p>
+        <a href="https://github.com/opanai404/vectrix"><strong>Explore / 查看</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/opanai404/ember-edge">
+        <img src="./assets/card-ember-edge.svg" alt="Ember — WebAssembly edge runtime" width="100%" />
+      </a>
+      <p>
+        <strong>Ember</strong><br />
+        A WebAssembly edge runtime for the component model — WASI preview 2, per-tenant sandboxing, and OCI hot reload.
+        <br />
+        面向组件模型的 WebAssembly 边缘运行时：WASI preview 2、租户级沙箱与 OCI 热加载。
+      </p>
+      <p>
+        <a href="https://github.com/opanai404/ember-edge"><strong>Explore / 查看</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/opanai404/zephyr-zk">
+        <img src="./assets/card-zephyr-zk.svg" alt="Zephyr — zero-knowledge circuit toolkit" width="100%" />
+      </a>
+      <p>
+        <strong>Zephyr</strong><br />
+        A zero-knowledge circuit toolkit with pluggable STARK and Groth16 backends and WASM verifiers.
+        <br />
+        可插拔 STARK / Groth16 后端的零知识电路工具集，内置 WASM 验证器。
+      </p>
+      <p>
+        <a href="https://github.com/opanai404/zephyr-zk"><strong>Explore / 查看</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/opanai404/pulse-ebpf">
+        <img src="./assets/card-pulse-ebpf.svg" alt="Pulse — eBPF observability platform" width="100%" />
+      </a>
+      <p>
+        <strong>Pulse</strong><br />
+        Low-overhead eBPF observability tracing syscalls and TCP events into OpenTelemetry metrics with Grafana dashboards.
+        <br />
+        低开销 eBPF 可观测平台：将系统调用与 TCP 事件导出为 OpenTelemetry 指标。
+      </p>
+      <p>
+        <a href="https://github.com/opanai404/pulse-ebpf"><strong>Explore / 查看</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/opanai404/lumina-wgpu">
+        <img src="./assets/card-lumina-wgpu.svg" alt="Lumina — real-time path tracer on WebGPU" width="100%" />
+      </a>
+      <p>
+        <strong>Lumina</strong><br />
+        A real-time WebGPU path tracer with multiple importance sampling, temporal denoising, and PBR materials — pure browser.
+        <br />
+        基于 WebGPU 的实时路径追踪：多重重要性采样、时域降噪与 PBR 材质，纯浏览器运行。
+      </p>
+      <p>
+        <a href="https://github.com/opanai404/lumina-wgpu"><strong>Explore / 查看</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Selected work · 精选项目
 

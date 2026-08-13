@@ -1,0 +1,35 @@
+<svg width="720" height="300" viewBox="0 0 720 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Aurora — MCP-native multi-agent orchestration</title>
+  <desc id="desc">Project card for Aurora, a graph-based multi-agent orchestration framework on the Model Context Protocol.</desc>
+  <defs>
+    <linearGradient id="bg" x1="24" y1="20" x2="696" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1A31"/>
+      <stop offset="1" stop-color="#102746"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="300" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="718" height="298" rx="19" stroke="#22D3EE" stroke-opacity="0.38" stroke-width="2"/>
+  <circle cx="636" cy="64" r="116" fill="#22D3EE" fill-opacity="0.07"/>
+  <text x="40" y="54" fill="#A5F3FC" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="700" letter-spacing="2.4">FRONTIER SYSTEMS · AGENTS</text>
+  <text x="40" y="112" fill="#F8FAFC" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="38" font-weight="760">Aurora</text>
+  <text x="40" y="151" fill="#B8C9E0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17">Graph-based orchestration of LLM agent fleets over</text>
+  <text x="40" y="176" fill="#B8C9E0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17">the Model Context Protocol, with streaming execution.</text>
+  <g>
+    <rect x="40" y="216" width="52" height="34" rx="17" fill="#16334F"/>
+    <text x="53" y="238" fill="#A5F3FC" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700">MCP</text>
+    <rect x="104" y="216" width="48" height="34" rx="17" fill="#16334F"/>
+    <text x="115" y="238" fill="#A5F3FC" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700">BUN</text>
+    <rect x="164" y="216" width="124" height="34" rx="17" fill="#16334F"/>
+    <text x="183" y="238" fill="#A5F3FC" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700">TYPESCRIPT</text>
+  </g>
+  <g transform="translate(556 178)">
+    <rect width="112" height="72" rx="12" fill="#112A49" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <circle cx="24" cy="22" r="7" fill="#22D3EE"/>
+    <circle cx="62" cy="50" r="7" fill="#22D3EE" fill-opacity="0.55"/>
+    <circle cx="88" cy="22" r="7" fill="#22D3EE"/>
+    <line x1="30" y1="26" x2="56" y2="45" stroke="#22D3EE" stroke-opacity="0.6"/>
+    <line x1="70" y1="45" x2="83" y2="28" stroke="#22D3EE" stroke-opacity="0.6"/>
+    <line x1="31" y1="18" x2="81" y2="18" stroke="#22D3EE" stroke-opacity="0.4"/>
+    <circle cx="56" cy="18" r="4" fill="#7DD3FC"/>
+  </g>
+</svg>
