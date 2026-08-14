@@ -47,16 +47,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opanai404&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css&bg_color=0B0F1A&title_color=F8FAFC&text_color=8B93A7" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=opanai404&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=issues,prs&bg_color=0B0F1A&title_color=F8FAFC&text_color=8B93A7&icon_color=F472B6" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=opanai404&theme=onedark&no-frame=true&column=7&margin-w=8" />
-</div>
-
 ## Frontier systems · 前沿系统
 
 <p>
